@@ -1,4 +1,4 @@
-package lesson.algorithms;
+package lessons.algorithms;
 
 public class LinearAndBinarySearch {
     private static int counter = 0;
